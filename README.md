@@ -1,6 +1,6 @@
 # Jupyter Repeat
 
-#Introduction
+# Introduction
 My name is Toluwalase Ifebajo. My evaluation for Graph Theory, Summer 2021–2022, can be found on this github page. This notebook's objective is to demonstrate my comprehension and learning outcomes from the Graph Theory module in third-year software development at ATU.
 
 # Module
